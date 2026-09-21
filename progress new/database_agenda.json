@@ -1,0 +1,50 @@
+{
+    "Lantai 1": [
+        {
+            "pekerjaan": "masang bata",
+            "tukang": "pak saiful, pak fajar",
+            "laden": "pak roni, pak irfan pak lutfi, pak fuad",
+            "pengawas": "hendra",
+            "note": "sampun"
+        }
+    ],
+    "Lantai 2": [
+        {
+            "pekerjaan": "pembersihan lokasi lt 2",
+            "tukang": "pak saiful",
+            "laden": "",
+            "pengawas": "",
+            "note": ""
+        },
+        {
+            "pekerjaan": "pembongkaran dinding untuk ruang isolasi icu",
+            "tukang": "pak resa",
+            "laden": "pak sodik",
+            "pengawas": "",
+            "note": ""
+        },
+        {
+            "pekerjaan": "pembongkaran jendela",
+            "tukang": "pak musta'in",
+            "laden": "",
+            "pengawas": "",
+            "note": ""
+        },
+        {
+            "pekerjaan": "pembuata cover jalur pipa ruang icu lt 2",
+            "tukang": "",
+            "laden": "pak riski, & pak ized",
+            "pengawas": "",
+            "note": ""
+        }
+    ],
+    "Ruang H,D": [
+        {
+            "pekerjaan": "pekerjaan pemasangan kalsi Ruang HD",
+            "tukang": "pak candra, pak fiki, pak novi, pak ghofur, pak fifi, pak aldi, pak diki",
+            "laden": "",
+            "pengawas": "",
+            "note": ""
+        }
+    ]
+}
